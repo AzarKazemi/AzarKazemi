@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AzarKazemi
+- 👀 I’m interested in computational pathology and medical data science :)
+- 🌱 I’m currently learning python, image analysis and computational pathology ;) ")
+- 💞️ I’m looking to collaborate on medical data science projects!
+- 📫 Reach me by azarkazemi.mi@gmail.com and azar.kazemi@tum.de 
